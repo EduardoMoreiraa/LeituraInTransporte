@@ -15,7 +15,7 @@ Possibilidade de salvar o áudio gerado, para ouvir offline quando e onde quiser
 Voz Amiga é mais que um aplicativo, é um compromisso com a inclusão e democratização do acesso à informação.
 Utilize agora e dê ouvidos ao conhecimento!
 
-
+ 
 Voz Amiga
 Dê ouvidos ao conhecimento!
 Este é o repositório do Voz Amiga, uma solução inovadora que transforma qualquer PDF em áudio de alta qualidade, abrindo portas para o conhecimento e inclusão.
